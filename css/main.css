@@ -65,12 +65,13 @@ header button {
 
 /*------SECTION1------*/
 
-.section1 {
+.main_section {
     height: 300px;
 }
 
 .box h1 {
     font-size: 48px;
+    font-weight: bold;
     text-transform: uppercase;
     color: #464646;
 }
