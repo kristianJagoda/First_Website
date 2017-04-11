@@ -28,7 +28,7 @@ header {
     height: 715px;
 }
 
-.img_header {
+.logo_header, .logo_footer {
     float: left;
 }
 
@@ -66,7 +66,7 @@ header button {
 /*------SECTION1------*/
 
 .main_section {
-    height: 300px;
+    height: 560px;
 }
 
 .box h1 {
@@ -90,4 +90,31 @@ div.box:first-of-type {
     font-size: 16px;
     margin-top: 20px;
     color: #b7b7b7;
+}
+
+/*------FOOTER-------*/
+footer {
+  background-color: #000;
+  height: 180px;
+  margin-top: 20px;
+}
+footer p {
+  font-size: 16px;
+  color: #474747;
+  float: right;
+}
+footer img {
+  margin-top: 10px;
+}
+footer .part2 {
+  margin-top: 20px;
+}
+.menu_footer {
+  font-size: 16px;
+  color: #474747;
+  float: left;
+  margin-right: 30px;
+}
+.menu_footer li {
+  padding: 5px;
 }
