@@ -1,10 +1,10 @@
-#First Website#
+# First Website #
 
 That’s my first website (just simple HTML and CSS) prepared on bootcamp at [Coders' Lab.](https://github.com/CodersLab)
 
 
 
-##Code used:##
+## Code used: ##
 
 * HTML5
 * CSS3
