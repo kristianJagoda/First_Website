@@ -1,0 +1,55 @@
+/*----FONT FAMILY ----*/
+@font-face {
+    font-family: 'opensans-regular';
+    src: url('../fonts/opensans-regular.woff2') format('woff2'),
+         url('../fonts/opensans-regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+
+
+/* ----- BODY, HTML and Max Width --- */
+body {
+  color: #fff;
+  font-family: "opensans-regular", sans-serif;
+}
+.max_width {
+  width: 930px;
+  margin: 0 auto;
+}
+
+
+/*------ HEADER ------- */
+header {
+  background-image: url('../images/header.jpg');
+  height: 715px;
+}
+.img_header {
+  float: left;
+}
+.nav {
+  float: right;
+  color: #fff;
+}
+.nav li {
+  font-size: 14px;
+  display: inline-block;
+  padding: 20px 0 0 15px;
+}
+header h2 {
+  font-size: 24px;
+  margin-top: 230px;
+  padding-left: 5px;
+}
+header h1 {
+  font-size: 60px;
+}
+header button {
+  font-size: 16px;
+  border: none;
+  color: #fff;
+  background-color: #e92121;
+  padding: 10px;
+
+}
